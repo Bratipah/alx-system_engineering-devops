@@ -1,2 +1,3 @@
-#!/bin/bash
-mkdir/tmp/0x00-shell_basics
+
+#!/bin/bash  s
+mkdir /tmp/my_first_directory

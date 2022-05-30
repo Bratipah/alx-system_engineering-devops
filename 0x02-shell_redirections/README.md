@@ -14,3 +14,5 @@ commit and push file
 
 write script displays confused smiley
 
+Delete all regular files wth .js extension
+

@@ -32,3 +32,4 @@ def recurse(subreddit, hot_list=[], after=None):
     else:
         return recurse(subreddit, hot_list, after)
 
+
